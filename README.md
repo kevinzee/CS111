@@ -1,1 +1,2 @@
 # CS111
+A repository for Queens College's introductory CS course, CS111 (Introduction to Algorithmic Problem Solving). 
